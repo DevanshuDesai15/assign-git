@@ -1,4 +1,11 @@
 • What is a gitignore file and what should it include for a Java project?
+	So the gitignore file contains the ignore rules. Place the gitignore file in the main directory of the Eclipse Project.
+
 • What does fast-forward in git mean?
+	It means that when there is a direct linear path from the source branch to the target branch.
+
 • Why should you have different branches?
+	In a big project there are multiple people working and they are assigned to different work and to maintain that record different branches are used.
+
 • In a project how many remote Git repositories do you usually have?
+	Multiple.
